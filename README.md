@@ -1,4 +1,4 @@
-<img width="790" height="2268" alt="image" src="https://github.com/user-attachments/assets/2ae3b36f-77b2-4fe0-8551-dcd806d6ce01" /># Smart-Pothole-Warning-System
+
 Arduino-based smart pothole detection and driver warning system using an HC-SR04 ultrasonic sensor and MPU6050.
 
 Smart Pothole and Warning System Detection
